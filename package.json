@@ -1,6 +1,6 @@
 {
     "name": "com.kirbyrawr.system.runtime.compilerservices.unsafe",
-    "version": "4.0.41-1",
+    "version": "4.0.4",
     "displayName": "System.Runtime.CompilerServices.Unsafe",
     "description": "This is a package that contains the 'System.Runtime.CompilerServices.Unsafe' library.",
     "unity": "2019.1",
